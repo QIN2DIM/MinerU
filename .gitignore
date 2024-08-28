@@ -40,3 +40,4 @@ source.dev.env
 PDF-Extract-Kit
 examples/
 outputs/
+magic-pdf.json
